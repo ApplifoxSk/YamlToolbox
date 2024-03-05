@@ -1,6 +1,6 @@
 Several years ago during spring of 2020 I looked on internet sites for some free library or samples with math processor implementation. I found only some implementations of math expressions evaluation with basic operations without usage of variables.
 
-Reason of math processor implementation request was pilot project of some industry application, which needed preprocessing of presets of variety variables of electrical quantities and postprocessing realted to combination of parameter presets and result of measured values.
+Reason of math processor implementation request was pilot project of some industry application, which needed preprocessing of presets of variety variables of electrical quantities and postprocessing related to combination of parameter presets and result of measured values.
 
 So I decided to wrote quick simple prototype of expressions parser with expression formatting, which allows simple and quick parsing of expression "on the fly" during expression evaluation calls.
 
