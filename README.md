@@ -1,4 +1,4 @@
-Several years ago during spring of 2020 I looked on internet sites for some free library or samples with implementation math processor. I found only some math implementations with basic operation without usage of variables.
+Several years ago during spring of 2020 I looked on internet sites for some free library or samples with math processor implementation. I found only some implementations of math expressions evaluation with basic operations without usage of variables.
 
 Reason of math processor implementation request was pilot project of some industry application, which needed preprocessing of presets of variety variables of electrical quantities and postprocessing realted to combination of parameter presets and result of measured values.
 
